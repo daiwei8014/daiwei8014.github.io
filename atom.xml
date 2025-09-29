@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2025-07-21T10:30:00.000Z</updated>
+  <updated>2025-09-29T12:08:43.433Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.fomal.cc/posts/0.html"/>
+    <id>https://www.fomal.cc/posts/0.html</id>
+    <published>2025-09-29T12:07:25.013Z</published>
+    <updated>2025-09-29T12:08:43.433Z</updated>
+    
+    <content type="html"><![CDATA[<!-- * @Author: daiwei8014 1599932119@qq.com * @Date: 2025-09-29 20:07:25 * @LastEditors: daiwei8014 1599932119@qq.com * @LastEditTime: 2025-09-29 20:07:36 * @FilePath: \hexo-theme-Fomalhaut\source\_posts\100天啦.md * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AEq--><h1>给小灰灰的 100 天纪念信 ❤️</h1><p>亲爱的小灰灰，</p><p>今天是我们在一起的第 100 天。<br>虽然你回家了，没法一起庆祝，但我还是想说，这 100 天真的很开心。每一天都很充实，也让我越来越习惯有你的存在。</p><p>今天我只想说两件事：</p><ol><li>谢谢你陪着我走过这 100 天。</li><li>等你回来的时候，我们一定要好好补庆祝一下——记得请我吃饭哦 😏</li></ol><p>小灰灰，100 天只是一个小小的里程碑，但期待我们未来更多的日子。</p><p>——你的小林林</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!--
+ * @Author: daiwei8014 1599932119@qq.com
+ * @Date: 2025-09-29 20:07:25
+ * @LastEditors: daiwei8014 1599932119@qq.com
+ * @LastEditTime: </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hexo Butterfly 主题博客开发计划</title>
